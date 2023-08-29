@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="150" src="https://iili.io/H3z67kX.png" alt="logo" border="0"/>
+  <img background="dark" height="150" src="https://iili.io/H3z67kX.png" alt="logo" border="0"/>
 </div>
   <h3 align="center">Backend Hire Job</h3>
   <p align="center">
