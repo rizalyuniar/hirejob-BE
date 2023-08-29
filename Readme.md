@@ -1,11 +1,11 @@
 <br />
 <p align="center">
 <div align="center">
-  <img background="dark" height="150" src="https://iili.io/H3z67kX.png" alt="logo" border="0"/>
+  <img height="150" src="https://iili.io/H3z67kX.png" alt="logo" border="0"/>
 </div>
   <h3 align="center">Backend Hire Job</h3>
   <p align="center">
-    <a href="https://github.com/rrizalyuniar/hirejob-BE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/hirejob-BE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://hirejob-deploy-production.up.railway.app/">View Demo</a>
     ·
@@ -62,7 +62,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone https://github.com/rrizalyuniar/hirejob-BE.git
+git clone https://github.com/rizalyuniar/hirejob-BE.git
 ```
 - Go To Folder Repo
 ```
@@ -116,9 +116,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Hire Job`](https://github.com/rrizalyuniar/hirejob-BE)
+:rocket: [`Backend Hire Job`](https://github.com/rizalyuniar/hirejob-BE)
 
-:rocket: [`Frontend Hire Job`](https://github.com/rrizalyuniar/hireJob-FE)
+:rocket: [`Frontend Hire Job`](https://github.com/rizalyuniar/hireJob-FE)
 
 :rocket: [`Demo Hire Job`](https://hiree-job.vercel.app/)
 
@@ -127,4 +127,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : rizalyuniar123@gmail.com
 
-Project Link: [https://github.com/rrizalyuniar/hirejob-BE/](https://github.com/rrizalyuniar/hirejob-BE)
+Project Link: [https://github.com/rizalyuniar/hirejob-BE/](https://github.com/rizalyuniar/hirejob-BE)
